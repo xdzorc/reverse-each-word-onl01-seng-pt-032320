@@ -11,7 +11,7 @@ end
 #   array=str.split(" ")
 #   newarray=[]
 #   array.collect do |x|
-#       newarray=x.reverse
+#       newarray<<x.reverse
 #   end
 #   newarray.join(" ")
 # end
